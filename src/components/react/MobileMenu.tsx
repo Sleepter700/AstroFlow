@@ -32,10 +32,10 @@ export default function MobileMenu() {
             <div className="pt-4">
               <Dialog.Close asChild>
                 <a
-                  href="/rfq"
-                  className="block text-center px-6 py-3 text-sm font-semibold text-white bg-linear-to-r from-red-600 to-red-700 hover:from-red-700 hover:to-red-800 rounded-lg shadow-md transition-all"
+                  href="https://vlmf.com.pe/webmail"
+                    className="block text-center px-6 py-3 text-sm font-semibold text-white bg-linear-to-r from-orange-400 to-orange-600 hover:from-orange-600 hover:to-orange-700 rounded-lg shadow-md transition-all"
                 >
-                  Cotizar Ahora
+                  Webmail
                 </a>
               </Dialog.Close>
             </div>
